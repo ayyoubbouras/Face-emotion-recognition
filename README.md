@@ -1,6 +1,6 @@
-# Face-Recognition-using-eigen-faces
+# Face-Emotion-Recognition-using-eigen-faces
 
-A report in face recognition using eigen faces 
+A report in face Emotion recognition using eigen faces 
 
 ### ABSTRACT
 Human body use their brain and eyes to see and sense the world, computer vision aim is the same. It is mainly concerned with analysis and understanding of information from an image or multiple images which involve development of algorithmic and theoretical basis. Linear algebra plays an important role to achieve the aim of computer vision. In this paper, the main focus is on how linear algebra helpful in computer vision. Through the use of linear algebra and these other mathematical models, the ﬁeld of computer vision has expanded rapidly. Currently computer vision is being used in solving vital problems in a vast array of ﬁelds including medical imaging, surveillance, and face and object detection and identiﬁcation. 
